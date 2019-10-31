@@ -5,7 +5,7 @@
   "background_color": "#286920",
   "display": "standalone",
   "scope": "https://jpozorio.github.io/dividir-cerva/",
-  "start_url": "/",
+  "start_url": "https://jpozorio.github.io/dividir-cerva/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
