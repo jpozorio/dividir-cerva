@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572523685229,
+  "timestamp": 1572726598042,
   "index": "https://jpozorio.github.io/dividir-cerva/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://jpozorio.github.io/dividir-cerva/favicon.ico",
         "https://jpozorio.github.io/dividir-cerva/index.html",
-        "https://jpozorio.github.io/dividir-cerva/main-es2015.cb9f8137cb368b2311c2.js",
-        "https://jpozorio.github.io/dividir-cerva/main-es5.cb9f8137cb368b2311c2.js",
+        "https://jpozorio.github.io/dividir-cerva/main-es2015.5b740ab099ebef4c5fc2.js",
+        "https://jpozorio.github.io/dividir-cerva/main-es5.5b740ab099ebef4c5fc2.js",
         "https://jpozorio.github.io/dividir-cerva/manifest.webmanifest",
         "https://jpozorio.github.io/dividir-cerva/polyfills-es2015.0ef207fb7b4761464817.js",
         "https://jpozorio.github.io/dividir-cerva/polyfills-es5.931f63c2feef40f602a6.js",
@@ -49,9 +49,9 @@
     "https://jpozorio.github.io/dividir-cerva/assets/icons/icon-72x72.png": "65ab5f6c45a78aafd8579e3ff39193884665fbf6",
     "https://jpozorio.github.io/dividir-cerva/assets/icons/icon-96x96.png": "b478629315cca60d66fda06c7b40cc27b6b2434c",
     "https://jpozorio.github.io/dividir-cerva/favicon.ico": "4dd65efcb9fad67946e6166f4dda4f2b98035d1f",
-    "https://jpozorio.github.io/dividir-cerva/index.html": "a871a301be3963e4cd8c96d6faf81d5a2472ebda",
-    "https://jpozorio.github.io/dividir-cerva/main-es2015.cb9f8137cb368b2311c2.js": "a78e69458696f13512bc431dd64967c6e898e996",
-    "https://jpozorio.github.io/dividir-cerva/main-es5.cb9f8137cb368b2311c2.js": "76db5a5ce22c42ceb0898081f124a26cc185bc51",
+    "https://jpozorio.github.io/dividir-cerva/index.html": "df82d68a39ac75c9fac438e0689f04076fc59db0",
+    "https://jpozorio.github.io/dividir-cerva/main-es2015.5b740ab099ebef4c5fc2.js": "c152ccc2d6cf1dc0617a88d59e3c677b2f156ae8",
+    "https://jpozorio.github.io/dividir-cerva/main-es5.5b740ab099ebef4c5fc2.js": "c4982db739156c3ceff9b8fe5680dfdc4d70dc25",
     "https://jpozorio.github.io/dividir-cerva/manifest.webmanifest": "5a73548a2238b3f4a1a71e139e4035e6dfe186da",
     "https://jpozorio.github.io/dividir-cerva/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "https://jpozorio.github.io/dividir-cerva/polyfills-es5.931f63c2feef40f602a6.js": "45c51483238468881240579c3fdecd19144cff17",
